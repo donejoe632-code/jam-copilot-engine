@@ -1,0 +1,28 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Audio outputs & artifacts
+*.wav
+*.mp3
+*.flac
+*.ogg
+output_jam.wav
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor / IDE artifacts
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
